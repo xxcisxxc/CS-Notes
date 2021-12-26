@@ -2,6 +2,6 @@
 
 * [大纲](README.md)
 
-## Group 1
+## 🍌 初级数据结构
 
-* [Untitled](<README (1).md>)
+* [Array & Lists](chu-ji-shu-ju-jie-gou/readme-1.md)
